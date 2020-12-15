@@ -180,6 +180,10 @@ ul.row {
 	color: var(--text-color);
 }
 
+.footer ul {
+	text-align: right;
+}
+
 .footer {
     padding: var(--footer-padding);
 }
