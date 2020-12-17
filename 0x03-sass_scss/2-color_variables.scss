@@ -1,0 +1,17 @@
+/* More color variables */
+
+$tcolor: #3D3D3D;
+$bcolor: #6D6D6D;
+
+body {
+    color: $tcolor;
+    background-color: $bcolor;
+}
+
+p {
+    color: $tcolor;
+}
+
+h2 {
+    background-color: $bcolor;
+}
