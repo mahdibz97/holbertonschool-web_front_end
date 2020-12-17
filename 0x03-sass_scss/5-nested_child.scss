@@ -1,0 +1,11 @@
+/* Nested class */ 
+$tbcolor: #3D3D3D;
+$trcolor: #FF0000;
+
+body {
+    color: $tbcolor;
+
+    > .red {
+        color: $trcolor; 
+    }
+}
