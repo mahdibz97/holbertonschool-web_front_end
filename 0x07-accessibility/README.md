@@ -9,7 +9,7 @@ What you should learn from this project:
 * Tools to use for Web Accessibility
 ---
 
-### [0. make the "works" card focus visible](./keyboard/01-styles.css/01-index.html)
+### [0. make the "works" card focus visible](./keyboard/01-styles.css ./keyboard/01-index.html)
 
 ### [1. add the skip-links](./skip-links/01-index.html ./skip-links/01-article.html ./skip-links/01-styles.css)
 
